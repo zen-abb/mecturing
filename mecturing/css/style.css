@@ -1,0 +1,2185 @@
+
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 5;
+		--web-view-id: Web_1920__5;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920__5;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__5 {
+		position: absolute;
+		width: 1920px;
+		height: 10639px;
+		background-color: rgba(32,32,32,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 5;
+		--web-view-id: Web_1920__5;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#footer {
+		position: absolute;
+		width: 1473px;
+		height: 1111px;
+		left: 224px;
+		top: 9045px;
+		overflow: visible;
+	}
+	#CALL_FOR_SUPPORT__1800-212-369 {
+		left: 195px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 1083px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Brinnan;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 56px;
+		color: rgba(255,255,255,1);
+	}
+	#SUBSCRIBE_TO_NEWSLETTER {
+		left: 461px;
+		top: 143px;
+		position: absolute;
+		overflow: visible;
+		width: 551px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 41px;
+		color: rgba(255,255,255,1);
+	}
+	#mcturing__2022_All_rights_rese {
+		left: 603px;
+		top: 885px;
+		position: absolute;
+		overflow: visible;
+		width: 267px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_42 {
+		position: absolute;
+		width: 1082px;
+		height: 68px;
+		left: 195px;
+		top: 262px;
+		overflow: visible;
+	}
+	#Rectangle_76 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_76 {
+		position: absolute;
+		overflow: visible;
+		width: 1082px;
+		height: 68px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_77 {
+		fill: rgba(25,135,43,1);
+	}
+	.Rectangle_77 {
+		position: absolute;
+		overflow: visible;
+		width: 318px;
+		height: 68px;
+		left: 764px;
+		top: 0px;
+	}
+	#_Your_Email {
+		left: 44px;
+		top: 18px;
+		position: absolute;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(117,117,117,1);
+	}
+	#Submit {
+		left: 882px;
+		top: 18px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_41 {
+		position: absolute;
+		width: 1300px;
+		height: 243px;
+		left: 86px;
+		top: 451px;
+		overflow: visible;
+	}
+	#Group_40 {
+		position: absolute;
+		width: 370px;
+		height: 243px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID1800-212-3698__infomecturing {
+		left: 0px;
+		top: 51px;
+		position: absolute;
+		overflow: visible;
+		width: 371px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#GET_IN_TOUCH {
+		left: 82px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_39 {
+		position: absolute;
+		width: 147px;
+		height: 195px;
+		left: 529px;
+		top: 0px;
+		overflow: visible;
+	}
+	#My_Account_Order_Tracking_Ship {
+		left: 6px;
+		top: 51px;
+		position: absolute;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -10px;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#ACCOUNT {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 148px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_38 {
+		position: absolute;
+		width: 144px;
+		height: 235px;
+		left: 835px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Help_Support_Demo_FAQ_Warranty {
+		left: 30px;
+		top: 51px;
+		position: absolute;
+		overflow: visible;
+		width: 85px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -10px;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#PRODUCT {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 145px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_37 {
+		position: absolute;
+		width: 162px;
+		height: 195px;
+		left: 1138px;
+		top: 0px;
+		overflow: visible;
+	}
+	#About_Us_Careers_Terms__Condit {
+		left: 0px;
+		top: 51px;
+		position: absolute;
+		overflow: visible;
+		width: 163px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -10px;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#COMPANY {
+		left: 5px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_43 {
+		position: absolute;
+		width: 272.945px;
+		height: 50.39px;
+		left: 600px;
+		top: 810.411px;
+		overflow: visible;
+	}
+	#Icon_awesome-facebook-square {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-facebook-square {
+		overflow: visible;
+		position: absolute;
+		width: 50.373px;
+		height: 50.372px;
+		left: 0px;
+		top: 0.001px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-youtube {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-youtube {
+		overflow: visible;
+		position: absolute;
+		width: 61.407px;
+		height: 43.176px;
+		left: 106.381px;
+		top: 3.599px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-instagram {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-instagram {
+		overflow: visible;
+		position: absolute;
+		width: 50.401px;
+		height: 50.39px;
+		left: 222.544px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ce-white {
+		position: absolute;
+		width: 382px;
+		height: 128px;
+		left: 0px;
+		top: 983px;
+		overflow: visible;
+	}
+	#rohs-whte {
+		position: absolute;
+		width: 382px;
+		height: 128px;
+		left: 1091px;
+		top: 983px;
+		overflow: visible;
+	}
+	#white-iso {
+		position: absolute;
+		width: 382px;
+		height: 128px;
+		left: 546px;
+		top: 983px;
+		overflow: visible;
+	}
+	#banner_end {
+		position: absolute;
+		width: 1920px;
+		height: 586px;
+		left: 0px;
+		top: 8336px;
+		overflow: visible;
+	}
+	#Parallax_Slider_2 {
+		position: absolute;
+		width: 1920px;
+		height: 586px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Combining_a_powerful_cleaning_ {
+		left: 335px;
+		top: 248px;
+		position: absolute;
+		overflow: visible;
+		width: 1251px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#QUIETLY_GIVE_YOU_A_CLEAN_HOUSE {
+		left: 635px;
+		top: 81px;
+		position: absolute;
+		overflow: visible;
+		width: 651px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Brinnan;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 71px;
+		color: rgba(255,255,255,1);
+	}
+	#Component_3__6 {
+		position: absolute;
+		width: 251px;
+		height: 84px;
+		left: 662px;
+		top: 345px;
+		overflow: visible;
+	}
+	#Rectangle_71 {
+		fill: rgba(25,135,43,1);
+	}
+	.Rectangle_71 {
+		position: absolute;
+		overflow: visible;
+		width: 251px;
+		height: 84px;
+		left: 0px;
+		top: 0px;
+	}
+	#Order_Now {
+		left: 62px;
+		top: 26px;
+		position: absolute;
+		overflow: visible;
+		width: 129px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_ionic-ios-arrow-forward {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_ionic-ios-arrow-forward {
+		overflow: visible;
+		position: absolute;
+		width: 13.503px;
+		height: 23.616px;
+		left: 214.451px;
+		top: 30.192px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Component_4__2 {
+		position: absolute;
+		width: 262px;
+		height: 84px;
+		left: 996px;
+		top: 345px;
+		overflow: visible;
+	}
+	#Rectangle_75 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_75 {
+		position: absolute;
+		overflow: visible;
+		width: 262px;
+		height: 84px;
+		left: 0px;
+		top: 0px;
+	}
+	#Book_Live_Demo {
+		left: 24px;
+		top: 26px;
+		position: absolute;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_ionic-ios-arrow-forward_bn {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_ionic-ios-arrow-forward_bn {
+		overflow: visible;
+		position: absolute;
+		width: 13.503px;
+		height: 23.616px;
+		left: 225.679px;
+		top: 30.192px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#in_india {
+		position: absolute;
+		width: 1920px;
+		height: 1227px;
+		left: 0px;
+		top: 6909px;
+		overflow: visible;
+	}
+	#Rectangle_81 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_81 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1227px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_48 {
+		position: absolute;
+		width: 978px;
+		height: 978px;
+		left: 151px;
+		top: 180px;
+		overflow: visible;
+	}
+	#Rectangle_80 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_80 {
+		filter: drop-shadow(4px 3px 10px rgba(0, 0, 0, 0.471));
+		position: absolute;
+		overflow: visible;
+		width: 1008px;
+		height: 1008px;
+		left: 0px;
+		top: 0px;
+	}
+	#mc-map {
+		position: absolute;
+		width: 978px;
+		height: 978px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#McTURING_IN_INDIA {
+		left: 637px;
+		top: 59px;
+		position: absolute;
+		overflow: visible;
+		width: 648px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Brinnan;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 69px;
+		color: rgba(0,0,0,1);
+	}
+	#We_have_Authorized_service__ce {
+		left: 1196px;
+		top: 511px;
+		position: absolute;
+		overflow: visible;
+		width: 625px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 39px;
+		color: rgba(0,0,0,1);
+	}
+	#ID30_OFFICES_ACROSS_INDIA {
+		left: 1196px;
+		top: 419px;
+		position: absolute;
+		overflow: visible;
+		width: 522px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(0,0,0,1);
+	}
+	#ID3_why_ {
+		position: absolute;
+		width: 1375px;
+		height: 325px;
+		left: 273px;
+		top: 6374px;
+		overflow: visible;
+	}
+	#Why_MecTuring {
+		left: 431px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 556px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Brinnan;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 69px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_30 {
+		position: absolute;
+		width: 1375px;
+		height: 204px;
+		left: 0px;
+		top: 121px;
+		overflow: visible;
+	}
+	#Group_29 {
+		position: absolute;
+		width: 204px;
+		height: 196px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Happy_Household {
+		left: 0px;
+		top: 94px;
+		position: absolute;
+		overflow: visible;
+		width: 205px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 43px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_25 {
+		position: absolute;
+		width: 146.489px;
+		height: 89px;
+		left: 29px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID1_M {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 126px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 74px;
+		color: rgba(25,135,43,1);
+	}
+	#Icon_feather-plus {
+		transform: translate(-210px, -1271px) matrix(1,0,0,1,335.4893,1281) rotate(0deg);
+		transform-origin: center;
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_7 {
+		fill: transparent;
+		stroke: rgba(25,135,43,1);
+		stroke-width: 3px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_7 {
+		overflow: visible;
+		position: absolute;
+		width: 3px;
+		height: 24px;
+		left: 10.5px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_8 {
+		fill: transparent;
+		stroke: rgba(25,135,43,1);
+		stroke-width: 3px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_8 {
+		overflow: visible;
+		position: absolute;
+		width: 24px;
+		height: 3px;
+		left: 0px;
+		top: 10.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_27 {
+		position: absolute;
+		width: 228px;
+		height: 196px;
+		left: 292px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Designed_in__India {
+		left: 0px;
+		top: 94px;
+		position: absolute;
+		overflow: visible;
+		width: 229px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 43px;
+		color: rgba(255,255,255,1);
+	}
+	#india {
+		position: absolute;
+		width: 90px;
+		height: 90px;
+		left: 69px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_28 {
+		position: absolute;
+		width: 332px;
+		height: 190.043px;
+		left: 609px;
+		top: 5.957px;
+		overflow: visible;
+	}
+	#Pioneer_in__Smart_Electronics {
+		left: 0px;
+		top: 88.043px;
+		position: absolute;
+		overflow: visible;
+		width: 333px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 43px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_awesome-globe-asia {
+		fill: rgba(25,135,43,1);
+	}
+	.Icon_awesome-globe-asia {
+		overflow: visible;
+		position: absolute;
+		width: 90.086px;
+		height: 90.086px;
+		left: 121px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_26 {
+		position: absolute;
+		width: 346px;
+		height: 203px;
+		left: 1029px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Best_in__Customer_Support {
+		left: 0px;
+		top: 101px;
+		position: absolute;
+		overflow: visible;
+		width: 347px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 43px;
+		color: rgba(255,255,255,1);
+	}
+	#handshake {
+		position: absolute;
+		width: 95px;
+		height: 95px;
+		left: 126px;
+		top: 0px;
+		overflow: visible;
+	}
+	#testimonies {
+		position: absolute;
+		width: 1920px;
+		height: 586px;
+		left: 0px;
+		top: 5588px;
+		overflow: visible;
+	}
+	#Rectangle_73 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_73 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 586px;
+		left: 0px;
+		top: 0px;
+	}
+	#Few_Indian_companies_make_robo {
+		left: 205px;
+		top: 155px;
+		position: absolute;
+		overflow: visible;
+		width: 1511px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 39px;
+		color: rgba(0,0,0,1);
+	}
+	#Anindya_Goswami_ {
+		left: 830px;
+		top: 348.25px;
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(0,0,0,1);
+	}
+	#Jake-Romero- {
+		position: absolute;
+		width: 70px;
+		height: 70px;
+		left: 720px;
+		top: 334.25px;
+		overflow: visible;
+	}
+	#Icon_awesome-quote-left {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-quote-left {
+		overflow: visible;
+		position: absolute;
+		width: 57.685px;
+		height: 50.474px;
+		left: 228.158px;
+		top: 58.893px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_36 {
+		position: absolute;
+		width: 128px;
+		height: 17px;
+		left: 896px;
+		top: 512px;
+		overflow: visible;
+	}
+	#Ellipse_14 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_14 {
+		position: absolute;
+		overflow: visible;
+		width: 17px;
+		height: 17px;
+		left: 0px;
+		top: 0px;
+	}
+	#Path_9 {
+		fill: rgba(0,0,0,1);
+	}
+	.Path_9 {
+		overflow: visible;
+		position: absolute;
+		width: 17px;
+		height: 17px;
+		left: 37px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Ellipse_14_co {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_14_co {
+		position: absolute;
+		overflow: visible;
+		width: 17px;
+		height: 17px;
+		left: 74px;
+		top: 0px;
+	}
+	#Ellipse_14_cp {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_14_cp {
+		position: absolute;
+		overflow: visible;
+		width: 17px;
+		height: 17px;
+		left: 111px;
+		top: 0px;
+	}
+	#hot_pro {
+		position: absolute;
+		width: 1708px;
+		height: 1079px;
+		left: 106px;
+		top: 4309px;
+		overflow: visible;
+	}
+	#Hot_Products {
+		left: 602px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 453px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Brinnan;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 69px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_70 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_70 {
+		position: absolute;
+		overflow: visible;
+		width: 797px;
+		height: 958px;
+		left: 0px;
+		top: 121px;
+	}
+	#bunddle_of_joy {
+		position: absolute;
+		width: 797px;
+		height: 958px;
+		left: 0px;
+		top: 121px;
+		overflow: visible;
+	}
+	#a3-tarrr {
+		position: absolute;
+		width: 880px;
+		height: 449px;
+		left: 828px;
+		top: 121px;
+		overflow: visible;
+	}
+	#image-45-1-1024x576 {
+		position: absolute;
+		width: 880px;
+		height: 467px;
+		left: 828px;
+		top: 612px;
+		overflow: visible;
+	}
+	#Component_3__7 {
+		position: absolute;
+		width: 251px;
+		height: 84px;
+		left: 503px;
+		top: 957px;
+		overflow: visible;
+	}
+	#Rectangle_71_cx {
+		fill: transparent;
+		stroke: rgba(25,135,43,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_71_cx {
+		position: absolute;
+		overflow: visible;
+		width: 251px;
+		height: 84px;
+		left: 0px;
+		top: 0px;
+	}
+	#Buy_Now {
+		left: 74px;
+		top: 26px;
+		position: absolute;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(25,135,43,1);
+	}
+	#Icon_ionic-ios-arrow-forward_cz {
+		fill: rgba(25,135,43,1);
+	}
+	.Icon_ionic-ios-arrow-forward_cz {
+		overflow: visible;
+		position: absolute;
+		width: 13.503px;
+		height: 23.616px;
+		left: 214.451px;
+		top: 30.192px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_78 {
+		fill: rgba(0,0,0,0.349);
+	}
+	.Rectangle_78 {
+		position: absolute;
+		overflow: visible;
+		width: 880px;
+		height: 449px;
+		left: 828px;
+		top: 121px;
+	}
+	#Rectangle_79 {
+		fill: rgba(0,0,0,0.349);
+	}
+	.Rectangle_79 {
+		position: absolute;
+		overflow: visible;
+		width: 880px;
+		height: 467px;
+		left: 828px;
+		top: 612px;
+	}
+	#MecTuring_A3-Tarr_Neo {
+		left: 851px;
+		top: 150px;
+		position: absolute;
+		overflow: visible;
+		width: 407px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 39px;
+		color: rgba(255,255,255,1);
+	}
+	#Advance_VSLAM_Navigation {
+		left: 851px;
+		top: 196px;
+		position: absolute;
+		overflow: visible;
+		width: 345px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+	}
+	#Component_3__8 {
+		position: absolute;
+		width: 251px;
+		height: 84px;
+		left: 851px;
+		top: 244px;
+		overflow: visible;
+	}
+	#Rectangle_71_c {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_71_c {
+		position: absolute;
+		overflow: visible;
+		width: 251px;
+		height: 84px;
+		left: 0px;
+		top: 0px;
+	}
+	#Learn_More {
+		left: 60px;
+		top: 26px;
+		position: absolute;
+		overflow: visible;
+		width: 133px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_ionic-ios-arrow-forward_c {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_ionic-ios-arrow-forward_c {
+		overflow: visible;
+		position: absolute;
+		width: 13.503px;
+		height: 23.616px;
+		left: 214.451px;
+		top: 30.192px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#LiDAR_20_Navigation {
+		left: 851px;
+		top: 680px;
+		position: absolute;
+		overflow: visible;
+		width: 263px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+	}
+	#MecTuring_Lasseron_S9_Pro {
+		left: 851px;
+		top: 634px;
+		position: absolute;
+		overflow: visible;
+		width: 473px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 39px;
+		color: rgba(255,255,255,1);
+	}
+	#Component_3__9 {
+		position: absolute;
+		width: 251px;
+		height: 84px;
+		left: 854px;
+		top: 728px;
+		overflow: visible;
+	}
+	#Rectangle_71_db {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 4px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_71_db {
+		position: absolute;
+		overflow: visible;
+		width: 251px;
+		height: 84px;
+		left: 0px;
+		top: 0px;
+	}
+	#Learn_More_dc {
+		left: 60px;
+		top: 26px;
+		position: absolute;
+		overflow: visible;
+		width: 133px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_ionic-ios-arrow-forward_dd {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_ionic-ios-arrow-forward_dd {
+		overflow: visible;
+		position: absolute;
+		width: 13.503px;
+		height: 23.616px;
+		left: 214.451px;
+		top: 30.192px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#features {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 3029px;
+		overflow: visible;
+	}
+	#McTURING-Human-Slider1-1024x57 {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Icon_awesome-map {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-map {
+		overflow: visible;
+		position: absolute;
+		width: 59.826px;
+		height: 46.532px;
+		left: 1278.877px;
+		top: 468px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-microphone-alt {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-microphone-alt {
+		overflow: visible;
+		position: absolute;
+		width: 35.835px;
+		height: 52.124px;
+		left: 1202.959px;
+		top: 351.735px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-user-astronaut {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-user-astronaut {
+		overflow: visible;
+		position: absolute;
+		width: 56.372px;
+		height: 64.425px;
+		left: 1022.313px;
+		top: 69px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-water {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-water {
+		overflow: visible;
+		position: absolute;
+		width: 72.099px;
+		height: 48.063px;
+		left: 1383.877px;
+		top: 580px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Auto_Charging_Resume_Cleaning_ {
+		left: 1103px;
+		top: 69px;
+		position: absolute;
+		overflow: visible;
+		width: 710px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Wet__Dry_Cleaning {
+		left: 1499.355px;
+		top: 583.142px;
+		position: absolute;
+		overflow: visible;
+		width: 301px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Voice_Controlled_With_Mobile_A {
+		left: 1278.877px;
+		top: 362px;
+		position: absolute;
+		overflow: visible;
+		width: 525px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#ID2_D_Mapping_System {
+		left: 1383.877px;
+		top: 471px;
+		position: absolute;
+		overflow: visible;
+		width: 315px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_ionic-ios-people {
+		position: absolute;
+		width: 64.675px;
+		height: 42.031px;
+		left: 1103px;
+		top: 213.969px;
+		overflow: visible;
+	}
+	#Path_4 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_4 {
+		overflow: visible;
+		position: absolute;
+		width: 40.087px;
+		height: 42.031px;
+		left: 12.244px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_5 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_5 {
+		overflow: visible;
+		position: absolute;
+		width: 20.439px;
+		height: 27.699px;
+		left: 0px;
+		top: 7.087px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_6 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_6 {
+		overflow: visible;
+		position: absolute;
+		width: 20.44px;
+		height: 27.699px;
+		left: 44.235px;
+		top: 7.087px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#AI_Powered_Object_Detection_Sm {
+		left: 1202.959px;
+		top: 214px;
+		position: absolute;
+		overflow: visible;
+		width: 556px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#awards {
+		position: absolute;
+		width: 1709px;
+		height: 656px;
+		left: 106px;
+		top: 2173px;
+		overflow: visible;
+	}
+	#Awards__Recognition {
+		left: 49px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 447px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 46px;
+		color: rgba(255,255,255,1);
+	}
+	#Scroll_Group_1 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 546px;
+		height: 543px;
+		left: 0px;
+		top: 111px;
+		overflow: hidden;
+	}
+	#Group_31 {
+		position: absolute;
+		width: 1092px;
+		height: 543px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#anupam {
+		position: absolute;
+		width: 543px;
+		height: 543px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Award-Website-1024x1024 {
+		position: absolute;
+		width: 543px;
+		height: 543px;
+		left: 549px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Amazing_Cleaning_Experience {
+		left: 951px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 595px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 46px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_67 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_67 {
+		position: absolute;
+		overflow: visible;
+		width: 931px;
+		height: 543px;
+		left: 777px;
+		top: 113px;
+	}
+	#Mask_Group_12 {
+		position: absolute;
+		width: 932px;
+		height: 543px;
+		left: 777px;
+		top: 111px;
+		overflow: visible;
+	}
+	#Icon_awesome-play {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-play {
+		overflow: visible;
+		position: absolute;
+		width: 54.978px;
+		height: 62.836px;
+		left: 1220.165px;
+		top: 345.191px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#vid {
+		position: absolute;
+		width: 1408px;
+		height: 888px;
+		left: 256px;
+		top: 1085px;
+		overflow: visible;
+	}
+	#Watch_In_Action {
+		left: 441px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 528px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Brinnan;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 69px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_34 {
+		position: absolute;
+		width: 1408px;
+		height: 775px;
+		left: 0px;
+		top: 113px;
+		overflow: visible;
+	}
+	#Rectangle_4 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 1278px;
+		height: 696px;
+		left: 65px;
+		top: 53px;
+	}
+	#Group_24 {
+		position: absolute;
+		width: 1408px;
+		height: 775px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Upasana_Singh_-_Thumbnail {
+		position: absolute;
+		width: 1408px;
+		height: 775px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Icon_feather-youtube {
+		position: absolute;
+		width: 62.373px;
+		height: 70.943px;
+		left: 672.813px;
+		top: 352.175px;
+		overflow: visible;
+	}
+	#Path_2 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_2 {
+		overflow: visible;
+		position: absolute;
+		width: 62.374px;
+		height: 70.943px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ID2_above_the_scroll {
+		position: absolute;
+		width: 1808.518px;
+		height: 916px;
+		left: 101px;
+		top: 165px;
+		overflow: visible;
+	}
+	#Clean_Anytime_Anywhere {
+		left: 0px;
+		top: 340px;
+		position: absolute;
+		overflow: visible;
+		width: 599px;
+		white-space: nowrap;
+		line-height: 90px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Brinnan;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 83px;
+		color: rgba(255,255,255,1);
+	}
+	#MAKE_OF_INDIA_BRAND_OF_INDIA_I {
+		left: 0px;
+		top: 558px;
+		position: absolute;
+		overflow: visible;
+		width: 585px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+	}
+	#ROBOTIC_VACUUM_CLEANER {
+		left: 8px;
+		top: 288px;
+		position: absolute;
+		overflow: visible;
+		width: 326px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_14 {
+		position: absolute;
+		width: 229px;
+		height: 58px;
+		left: 0px;
+		top: 621px;
+		overflow: visible;
+	}
+	#Rectangle_48 {
+		fill: rgba(25,135,43,1);
+	}
+	.Rectangle_48 {
+		position: absolute;
+		overflow: visible;
+		width: 229px;
+		height: 58px;
+		left: 0px;
+		top: 0px;
+	}
+	#Icon_awesome-play_eh {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_awesome-play_eh {
+		overflow: visible;
+		position: absolute;
+		width: 26.445px;
+		height: 30.225px;
+		left: 36.478px;
+		top: 14.272px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Watch_In_Action_ei {
+		left: 75px;
+		top: 19px;
+		position: absolute;
+		overflow: visible;
+		width: 120px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(255,255,255,1);
+	}
+	#Mask_Group_3 {
+		position: absolute;
+		width: 672px;
+		height: 916px;
+		left: 689px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Product {
+		filter: drop-shadow(0px 3px 20px rgba(254, 254, 254, 0.161));
+		position: absolute;
+		width: 571.602px;
+		height: 570.938px;
+		left: 573.199px;
+		top: 172.531px;
+		overflow: visible;
+	}
+	#Group_11 {
+		position: absolute;
+		width: 573px;
+		height: 674px;
+		left: 1145px;
+		top: 85px;
+		overflow: visible;
+	}
+	#book_the_demo {
+		fill: rgba(255,255,255,1);
+	}
+	.book_the_demo {
+		position: absolute;
+		overflow: visible;
+		width: 573px;
+		height: 674px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_10 {
+		position: absolute;
+		width: 383px;
+		height: 70px;
+		left: 88px;
+		top: 36px;
+		overflow: visible;
+	}
+	#Book_Your_Live_Demo {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 384px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(25,135,43,1);
+	}
+	#Enter_Your_Details {
+		left: 123px;
+		top: 49px;
+		position: absolute;
+		overflow: visible;
+		width: 137px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(25,135,43,1);
+	}
+	#Group_7 {
+		position: absolute;
+		width: 478px;
+		height: 73px;
+		left: 48px;
+		top: 251px;
+		overflow: visible;
+	}
+	#Rectangle_37 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_37 {
+		position: absolute;
+		overflow: visible;
+		width: 478px;
+		height: 47px;
+		left: 0px;
+		top: 26px;
+	}
+	#Email_Id {
+		left: 29px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(25,135,43,1);
+	}
+	#Group_8 {
+		position: absolute;
+		width: 478px;
+		height: 73px;
+		left: 48px;
+		top: 337px;
+		overflow: visible;
+	}
+	#Rectangle_36 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_36 {
+		position: absolute;
+		overflow: visible;
+		width: 478px;
+		height: 47px;
+		left: 0px;
+		top: 26px;
+	}
+	#Phone_Number {
+		left: 29px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(25,135,43,1);
+	}
+	#Group_9 {
+		position: absolute;
+		width: 478px;
+		height: 73px;
+		left: 48px;
+		top: 424px;
+		overflow: visible;
+	}
+	#Group_3 {
+		position: absolute;
+		width: 478px;
+		height: 48px;
+		left: 0px;
+		top: 25px;
+		overflow: visible;
+	}
+	#Rectangle_44 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_44 {
+		position: absolute;
+		overflow: visible;
+		width: 221px;
+		height: 48px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_45 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_45 {
+		position: absolute;
+		overflow: visible;
+		width: 221px;
+		height: 48px;
+		left: 257px;
+		top: 0px;
+	}
+	#State {
+		left: 31px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 36px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(25,135,43,1);
+	}
+	#City {
+		left: 286px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 28px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(25,135,43,1);
+	}
+	#Group_5 {
+		position: absolute;
+		width: 393px;
+		height: 62px;
+		left: 90px;
+		top: 536px;
+		overflow: visible;
+	}
+	#Rectangle_43 {
+		fill: rgba(25,135,43,1);
+	}
+	.Rectangle_43 {
+		position: absolute;
+		overflow: visible;
+		width: 393px;
+		height: 62px;
+		left: 0px;
+		top: 0px;
+	}
+	#Book_A_Free_Demo {
+		left: 111px;
+		top: 20px;
+		position: absolute;
+		overflow: visible;
+		width: 165px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_6 {
+		position: absolute;
+		width: 477px;
+		height: 75px;
+		left: 48px;
+		top: 163px;
+		overflow: visible;
+	}
+	#Group_4 {
+		position: absolute;
+		width: 477px;
+		height: 48px;
+		left: 0px;
+		top: 27px;
+		overflow: visible;
+	}
+	#Rectangle_40 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_40 {
+		position: absolute;
+		overflow: visible;
+		width: 477px;
+		height: 48px;
+		left: 0px;
+		top: 0px;
+	}
+	#Full_Name {
+		left: 29px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(25,135,43,1);
+	}
+	#Group_46 {
+		position: absolute;
+		width: 78.958px;
+		height: 78.958px;
+		left: 1729.559px;
+		top: 812.06px;
+		overflow: visible;
+	}
+	#Ellipse_15 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 5px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_15 {
+		position: absolute;
+		overflow: visible;
+		width: 67.534px;
+		height: 67.535px;
+		left: 9.018px;
+		top: 4.508px;
+	}
+	#Icon_ionic-logo-whatsapp {
+		fill: rgba(37,211,102,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 5px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Icon_ionic-logo-whatsapp {
+		overflow: visible;
+		position: absolute;
+		width: 85.414px;
+		height: 85.338px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ID1_header {
+		position: absolute;
+		width: 1920px;
+		height: 166px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 166px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 1207px;
+		height: 62px;
+		left: 613px;
+		top: 49px;
+		overflow: visible;
+	}
+	#Home {
+		left: 0px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Shop {
+		left: 134px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#My_Account {
+		left: 255px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Customer_Service {
+		left: 466px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 234px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lato;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Rectangle_46 {
+		fill: rgba(25,135,43,1);
+	}
+	.Rectangle_46 {
+		position: absolute;
+		overflow: visible;
+		width: 274px;
+		height: 62px;
+		left: 933px;
+		top: 0px;
+	}
+	#ID91_7620762254 {
+		left: 996px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 194px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_ionic-ios-call {
+		fill: rgba(255,255,255,1);
+	}
+	.Icon_ionic-ios-call {
+		overflow: visible;
+		position: absolute;
+		width: 27.01px;
+		height: 27.008px;
+		left: 961.495px;
+		top: 17.496px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#logo {
+		position: absolute;
+		width: 430.92px;
+		height: 114px;
+		left: 35px;
+		top: 28px;
+		overflow: visible;
+	}
